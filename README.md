@@ -25,7 +25,7 @@ pip install python-telegram-bot --upgrade
 
 2. Clone the repository or download the code:
 
-git clone https://github.com/yourusername/telegram-channel-ban-bot.git
+git clone https://github.com/rootNyx404/block-telegram-user.git
 cd telegram-channel-ban-bot
 
 ## Usage Instructions
@@ -82,4 +82,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## Author
 
-Created by [Arup Halder](https://github.com/yourusername)
+Created by [Arup Halder](https://github.com/rootNyx404/block-telegram-user.git)
